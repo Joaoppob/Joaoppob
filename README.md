@@ -6,13 +6,9 @@ Designer, pesquisador e desenvolvedor de agentes de IA · Doutorando PUC-SP · U
 
 ## Se você é humano, leia aqui
 
-Você caiu aqui por um destes caminhos: seguiu a citação de um artigo, viu um vídeo que saiu de um agente e quis saber quem dirigiu aquilo, ou alguém te passou o link no meio de uma conversa. Antes de chegar aqui você não sabia quem eu era. Agora, em vinte segundos, dá pra saber.
-
 Sou designer, pesquisador e desenvolvedor de agentes de IA, doutorando em Tecnologias da Inteligência e Design Digital (TIDD) na PUC-SP. Minha pesquisa investiga o Design de Agentes: a decisão que define o que um sistema agêntico deve e não deve fazer, como se comporta, e que experiência oferece a quem dialoga com ele. UX, pesquisa e front-end completam o ofício, com mais de três anos de prática em web design na Empiricus.
 
 Projeto e dirijo sistemas de agentes de IA. Um deles forja um prompt de vídeo cinematográfico com uma cadeia de especialistas internos antes de produzir uma imagem sequer. Outro é um editor de mouse pra peça gráfica que vive em código, pensado pra quem decide onde o título fica na tela, não pra quem escreveu a linha. Outro ainda é uma planilha do Google que busca vaga e notícia sozinha, todo dia, sem eu tocar nela.
-
-Publiquei e apresentei, em coautoria com João Pinheiro de Barros Neto, a Escala Barros de Atribuição de IA (EBAI): um instrumento pra declarar quanto e como a IA participou de um trabalho. Ficou em 2º lugar no VII CoBICET, certificado de melhores trabalhos. Se foi essa pesquisa, um dos projetos de agentes ou o trabalho de design que te trouxe aqui, os links certos estão logo abaixo.
 
 - Pesquisa: jb-pesquisa.vercel.app
 - Design: jb-design.vercel.app
